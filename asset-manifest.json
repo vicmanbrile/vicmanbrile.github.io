@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/vicmanbrile.github.io/static/css/main.106baaae.chunk.css",
+    "main.js": "/vicmanbrile.github.io/static/js/main.bbc2356b.chunk.js",
+    "main.js.map": "/vicmanbrile.github.io/static/js/main.bbc2356b.chunk.js.map",
+    "runtime-main.js": "/vicmanbrile.github.io/static/js/runtime-main.6a28fda3.js",
+    "runtime-main.js.map": "/vicmanbrile.github.io/static/js/runtime-main.6a28fda3.js.map",
+    "static/js/2.5c6081e9.chunk.js": "/vicmanbrile.github.io/static/js/2.5c6081e9.chunk.js",
+    "static/js/2.5c6081e9.chunk.js.map": "/vicmanbrile.github.io/static/js/2.5c6081e9.chunk.js.map",
+    "static/js/3.94c9e8e0.chunk.js": "/vicmanbrile.github.io/static/js/3.94c9e8e0.chunk.js",
+    "static/js/3.94c9e8e0.chunk.js.map": "/vicmanbrile.github.io/static/js/3.94c9e8e0.chunk.js.map",
+    "index.html": "/vicmanbrile.github.io/index.html",
+    "static/css/main.106baaae.chunk.css.map": "/vicmanbrile.github.io/static/css/main.106baaae.chunk.css.map",
+    "static/js/2.5c6081e9.chunk.js.LICENSE.txt": "/vicmanbrile.github.io/static/js/2.5c6081e9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a28fda3.js",
+    "static/js/2.5c6081e9.chunk.js",
+    "static/css/main.106baaae.chunk.css",
+    "static/js/main.bbc2356b.chunk.js"
+  ]
+}
