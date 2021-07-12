@@ -1,0 +1,11 @@
+.Header{
+    background-color: var(--principal-c);
+    box-sizing: border-box;
+}
+
+.Header > ul {
+    box-sizing: border-box;
+    padding: 0;
+    color: #fff
+    
+}
